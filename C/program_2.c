@@ -9,11 +9,11 @@ int main(){
   long double ld= 22.34L;
   printf("Float %f and long double %Lg",f,ld);
   return 0
-  
-  printf("The result: Unsigned long is 2500
-                      Float 1.250000 aand long double 22.34% ");
+ 
 }
 
 
 
-
+//The result
+//Unsigned long is 2500
+//Float 1.250000 aand long double 22.34% 
